@@ -201,7 +201,7 @@ It includes:
 
 - 🔗 GitHub: https://github.com/harshuu090  
 - 🌐 Portfolio: https://harsh-s-data-journey-b0057c52.vercel.app/  
-- 📧 Email: (add your email here)
+- 📧 Email: (harshuu9752@gmail.com)
 
 ---
 
