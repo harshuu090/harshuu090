@@ -3,18 +3,23 @@
 <!-- ========================================================= -->
 
 <h1 align="center">Hey 👋, I'm Harsh Kushwah</h1>
-
 <h3 align="center">
 Python • Data Analytics Foundations • Frontend & Web Development • AI Automation
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Learning+Fundamentals+Deeply;Building+AI+Powered+Systems;Exploring+Frontend+%26+Web+Development;Growing+One+Project+at+a+Time" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Learning+Fundamentals+Deeply;Building+AI+Powered+Systems;Exploring+Frontend+%26+Web+Development;Growing+One+Project+at+a+Time" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshuu090&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/harshuu090?style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <a href="https://harsh-s-data-journey-b0057c52.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshuu090&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/harshuu090?style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -59,21 +64,18 @@ My approach is simple:
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming & Web
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Python, HTML, CSS, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
 ### 📊 Data & Databases
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL and SQLite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ### ⚙️ Tools & Platforms
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -85,7 +87,6 @@ My approach is simple:
 ## 🚀 Projects & Systems
 
 ### 🧠 AI Resume Analyzer
-
 - AI-powered system for resume evaluation
 - Extracts skills, keywords, and meaningful insights
 - Helps identify resume strengths and improvement areas
@@ -95,7 +96,6 @@ My approach is simple:
 ---
 
 ### 📄 AI PDF Insight Hub
-
 - Intelligent PDF analysis platform
 - Extracts structured text, topics, and insights
 - Useful for academic and document intelligence
@@ -105,7 +105,6 @@ My approach is simple:
 ---
 
 ### 🔐 Text-to-Code Encryption System
-
 - Converts plain text into encrypted code format
 - Focuses on encoding logic and security basics
 - Fully implemented using Python
@@ -115,13 +114,35 @@ My approach is simple:
 ---
 
 ### 🤖 AI Automation Chatbot Agent
-
 - Handles real-time chat queries
 - Uses **Google Gemini API** for intelligent responses
 - Fetches **real-time AI news and updates**
 - Designed as an automation-driven AI agent
 
 **Tech:** Python, Google Gemini API, Automation Logic
+
+---
+
+<!-- ========================================================= -->
+<!-- ======================= PORTFOLIO ======================= -->
+<!-- ========================================================= -->
+
+## 🌐 Personal Portfolio
+
+I have built and deployed my **own portfolio website** to showcase my learning journey and projects.
+
+It includes:
+- 🚀 AI, automation, and analytics projects
+- 📊 Data analytics learning roadmap
+- 🌐 Frontend & web exploration
+- 🧠 Skills, tools, and practical work
+- 📫 Easy access to contact and profiles
+
+<p align="center">
+  <a href="https://harsh-s-data-journey-b0057c52.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -146,15 +167,15 @@ My approach is simple:
 ## 📈 GitHub Live Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshuu090&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshuu090&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshuu090&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshuu090&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshuu090&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshuu090&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -179,10 +200,13 @@ My approach is simple:
 ## 📫 Connect With Me
 
 - 🔗 GitHub: https://github.com/harshuu090  
-- 📧 Email: harshuu9752@gmail.com
+- 🌐 Portfolio: https://harsh-s-data-journey-b0057c52.vercel.app/  
+- 📧 Email: (harshuu9752@gmail.com)
 
 ---
 
-<p align="center">
-  ⭐ <b>Focused on fundamentals. Powered by curiosity. Growing with consistency.</b> ⭐
-</p>
+⭐ **Focused on fundamentals. Powered by curiosity. Growing with consistency.**
+
+
+
+is repo mese portfolio hta doh baaki sb same rekh or or muje dedo
